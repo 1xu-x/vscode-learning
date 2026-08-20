@@ -1,6 +1,6 @@
 def multiply(a, b):
 
-    result = a * b * 2
+    result = a * b * 2*10
 
     return result
 
