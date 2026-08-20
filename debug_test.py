@@ -1,6 +1,6 @@
-def multiply(a,b):
+def multiply(a, b):
 
-    result = a*b
+    result = a * b * 2
 
     return result
 
@@ -8,6 +8,6 @@ def multiply(a,b):
 x = 5
 y = 6
 
-answer = multiply(x,y)
+answer = multiply(x, y)
 
 print(answer)
